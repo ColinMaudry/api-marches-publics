@@ -1,0 +1,1528 @@
+{
+  "marches": [
+    {
+      "id": "2018N030000",
+      "uid": "200063402000162018N030000",
+      "acheteur": {
+        "id": "20006340200016",
+        "nom": "MAIRIE ANNECY BUDGET PRINCIPAL"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "CONCEPTION, DEVELOPPEMENT, HEBERGEMENT ET MAINTENANCE DU SITE INTERNET DE LA VILLE",
+      "codeCPV": "48200000-0",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "74000",
+        "typeCode": "Code commune",
+        "nom": "ANNECY"
+      },
+      "dureeMois": 48,
+      "dateNotification": "2018-12-11+01:00",
+      "datePublicationDonnees": "2018-12-20+01:00",
+      "montant": 220000,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "38219879400044",
+          "denominationSociale": "BUSINESS DECISION  INTERACTIVE EOLAS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018S-REPASCRE",
+      "uid": "200066884000122018S-REPASCRE",
+      "acheteur": {
+        "id": "20006688400012",
+        "nom": "COMMUNAUTE DE COMMUNES QUERCY VERT AVE"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "REPAS CUISINES PR MULTI ACCUEILS NEGRE ET ST ETIENNE",
+      "codeCPV": "15894200-3",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "82800",
+        "typeCode": "Code postal",
+        "nom": "NEGREPELISSE"
+      },
+      "dureeMois": 48,
+      "dateNotification": "2018-09-03+02:00",
+      "datePublicationDonnees": "2018-11-15+01:00",
+      "montant": 0,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "77571202900088",
+          "denominationSociale": "ADAPEI 82 ESAT JEAN CARRIO"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018C18072",
+      "uid": "200071678000112018C18072",
+      "acheteur": {
+        "id": "20007167800011",
+        "nom": "AGGLOMERATION DU CHOLETAIS"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "TRAVAUX DE SIGNALISATION VERTICALE ET HORIZONTALE ET POSE DE MOBILIER URBAIN 2018-2021 GPT DE COMMANDES",
+      "codeCPV": "34942000-2",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "49321",
+        "typeCode": "Code postal",
+        "nom": "CHOLET CEDEX"
+      },
+      "dureeMois": 12,
+      "dateNotification": "2018-10-04+02:00",
+      "datePublicationDonnees": "2018-10-23+02:00",
+      "montant": 200000,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "32902082000042",
+          "denominationSociale": "ESVIA SAS EX LESOURD"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018C18081",
+      "uid": "200071678000112018C18081",
+      "acheteur": {
+        "id": "20007167800011",
+        "nom": "AGGLOMERATION DU CHOLETAIS"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "LOT 2 PEINTURE EXTERIEURE - RENOVATION DES FACADES DE L AEROGARE DE CHOLET",
+      "codeCPV": "45442110-1",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "49321",
+        "typeCode": "Code postal",
+        "nom": "CHOLET CEDEX"
+      },
+      "dureeMois": 3,
+      "dateNotification": "2018-10-20+02:00",
+      "datePublicationDonnees": "2018-11-05+01:00",
+      "montant": 29600,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "49146798100016",
+          "denominationSociale": "PAILLAT NORBERT"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018C1807400",
+      "uid": "200071678000112018C1807400",
+      "acheteur": {
+        "id": "20007167800011",
+        "nom": "AGGLOMERATION DU CHOLETAIS"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "LOT 1 ASSURANCE DES DOMMAGES AUX BIENS ET DES RISQUES ANNEXES - SERVICES D ASSURANCES 2019-2023",
+      "codeCPV": "66515000-3",
+      "procedure": "Appel d'offres ouvert",
+      "lieuExecution": {
+        "code": "49321",
+        "typeCode": "Code postal",
+        "nom": "CHOLET CEDEX"
+      },
+      "dureeMois": 60,
+      "dateNotification": "2018-10-31+01:00",
+      "datePublicationDonnees": "2018-12-04+01:00",
+      "montant": 316205.3,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "38384469300887",
+          "denominationSociale": "GROUPAMA LOIRE BRETAGNE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018C18070",
+      "uid": "200071678000452018C18070",
+      "acheteur": {
+        "id": "20007167800045",
+        "nom": "AGGLOMERATION DU CHOLETAIS"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "LOT 1 ASS TRANCHEE OUVERTE - AMONT POSTE DE REFOULEMENT DU ROCHER - LE MAY SUR EVRE",
+      "codeCPV": "45232410-9",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "49321",
+        "typeCode": "Code postal",
+        "nom": "CHOLET CEDEX"
+      },
+      "dureeMois": 2,
+      "dateNotification": "2018-10-11+02:00",
+      "datePublicationDonnees": "2018-10-24+02:00",
+      "montant": 47667,
+      "formePrix": "Ferme et actualisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "41239723400060",
+          "denominationSociale": "EUROVIA ATLANTIQUE SAS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20181809100200",
+      "uid": "2111006980001120181809100200",
+      "acheteur": {
+        "id": "21110069800011",
+        "nom": "COMMUNE DE CARCASSONNE"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "Réhabilitation des parties inscrites aux monuments historiques du groupe scolaire Jean Jaurès - Lot no 2 Menuiserie bois",
+      "codeCPV": "45421150-0",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "11000",
+        "typeCode": "Code postal",
+        "nom": "CARCASSONNE"
+      },
+      "dureeMois": 13,
+      "dateNotification": "2018-12-07+01:00",
+      "datePublicationDonnees": "2018-12-10+01:00",
+      "montant": 614566.75,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "32086170100037",
+          "denominationSociale": "GOMEZ ENTREPRISE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20181809300100",
+      "uid": "2111006980001120181809300100",
+      "acheteur": {
+        "id": "21110069800011",
+        "nom": "COMMUNE DE CARCASSONNE"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "Prestations de services postaux - Lot no 1 Prestations d'acheminement et de distribution de courrier et prestations accessoires",
+      "codeCPV": "64100000-7",
+      "procedure": "Appel d'offres ouvert",
+      "lieuExecution": {
+        "code": "11000",
+        "typeCode": "Code postal",
+        "nom": "CARCASSONNE"
+      },
+      "dureeMois": 48,
+      "dateNotification": "2018-12-08+01:00",
+      "datePublicationDonnees": "2018-12-12+01:00",
+      "montant": 800000,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "35600000012305",
+          "denominationSociale": "LA POSTE DVE MONTPELLIER"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20181810200",
+      "uid": "2111006980001120181810200",
+      "acheteur": {
+        "id": "21110069800011",
+        "nom": "COMMUNE DE CARCASSONNE"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "Fourniture de chèques d'accompagnement personnalisé",
+      "codeCPV": "30199770-8",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "11000",
+        "typeCode": "Code postal",
+        "nom": "CARCASSONNE"
+      },
+      "dureeMois": 48,
+      "dateNotification": "2018-12-14+01:00",
+      "datePublicationDonnees": "2018-12-13+01:00",
+      "montant": 80000,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "39336513500358",
+          "denominationSociale": "EDENRED FRANCE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018tet01",
+      "uid": "213500515000192018tet01",
+      "acheteur": {
+        "id": "21350051500019",
+        "nom": "Ville de Cesson-Sévigné"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "marché pes test",
+      "codeCPV": "14820000-5",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "35517",
+        "typeCode": "Code postal",
+        "nom": "CESSON SEVIGNE CEDEX"
+      },
+      "dureeMois": 12,
+      "dateNotification": "2018-10-15+02:00",
+      "datePublicationDonnees": "2018-10-18+02:00",
+      "montant": 30000,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "75580064600373",
+          "denominationSociale": "BERGER LEVRAULT"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "201818-270006500",
+      "uid": "21350051500019201818-270006500",
+      "acheteur": {
+        "id": "21350051500019",
+        "nom": "Ville de Cesson-Sévigné"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "MAINTENANCE DES TRIBUNES DU CARRE SEVIGNE",
+      "codeCPV": "50712000-9",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "35517",
+        "typeCode": "Code postal",
+        "nom": "CESSON SEVIGNE CEDEX"
+      },
+      "dureeMois": 48,
+      "dateNotification": "2018-12-13+01:00",
+      "datePublicationDonnees": "2018-12-20+01:00",
+      "montant": 127592,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "45352461300024",
+          "denominationSociale": "MASTER INDUSTRIE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018KC0100",
+      "uid": "214700015000162018KC0100",
+      "acheteur": {
+        "id": "21470001500016",
+        "nom": "01 BUDGET PRINCIPAL"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "PATINOIRE 2018",
+      "codeCPV": "92000000-1",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "47001",
+        "typeCode": "Code commune",
+        "nom": "AGEN"
+      },
+      "dureeMois": 2,
+      "dateNotification": "2018-11-27+01:00",
+      "datePublicationDonnees": "2018-10-18+02:00",
+      "montant": 42000,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "51205319000025",
+          "denominationSociale": "MULTISHOWS CONCEPTS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20182018-2700",
+      "uid": "2149006310001820182018-2700",
+      "acheteur": {
+        "id": "21490063100018",
+        "nom": "Ville de Chalonnes sur Loire"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "VRD 2018",
+      "codeCPV": "45233252-0",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "49290",
+        "typeCode": "Code postal",
+        "nom": "CHALONNES SUR LOIRE"
+      },
+      "dureeMois": 24,
+      "dateNotification": "2018-10-24+02:00",
+      "datePublicationDonnees": "2018-12-17+01:00",
+      "montant": 83789.77,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "06320027300025",
+          "denominationSociale": "COURANT SA"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018V18044",
+      "uid": "214900995000172018V18044",
+      "acheteur": {
+        "id": "21490099500017",
+        "nom": "VILLE DE CHOLET"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "TRAVAUX DE SIGNALISATION VERTICALE ET HORIZONTALE ET POSE DE MOBILIER URBAIN 2018/2021",
+      "codeCPV": "34942000-2",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "49321",
+        "typeCode": "Code postal",
+        "nom": "CHOLET CEDEX"
+      },
+      "dureeMois": 12,
+      "dateNotification": "2018-10-04+02:00",
+      "datePublicationDonnees": "2018-10-10+02:00",
+      "montant": 200000,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "32902082000042",
+          "denominationSociale": "ESVIA SAS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20181811300",
+      "uid": "2164010260036620181811300",
+      "acheteur": {
+        "id": "21640102600366",
+        "nom": "VILLE DE BAYONNE"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "ACQUISITION DE CD ADULTE ET JEUNESSE LOT No1",
+      "codeCPV": "30234300-1",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "64109",
+        "typeCode": "Code postal",
+        "nom": "BAYONNE CEDEX"
+      },
+      "dureeMois": 24,
+      "dateNotification": "2018-11-19+01:00",
+      "datePublicationDonnees": "2018-12-06+01:00",
+      "montant": 30000,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "34864644900051",
+          "denominationSociale": "GAM SAS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20181811400",
+      "uid": "2164010260036620181811400",
+      "acheteur": {
+        "id": "21640102600366",
+        "nom": "VILLE DE BAYONNE"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "ACQUISITION DE DVD FICTION ET DOC ADULTE ET JEUNESSE LOT No 2",
+      "codeCPV": "30234400-2",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "64109",
+        "typeCode": "Code postal",
+        "nom": "BAYONNE CEDEX"
+      },
+      "dureeMois": 24,
+      "dateNotification": "2018-11-19+01:00",
+      "datePublicationDonnees": "2018-12-07+01:00",
+      "montant": 30000,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "34436269400061",
+          "denominationSociale": "SAS COLACO"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20181813400",
+      "uid": "2164010260044020181813400",
+      "acheteur": {
+        "id": "21640102600440",
+        "nom": "VILLE DE BAYONNE"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "ORGANISATION SPECTACLES TAURINS 2019 2020 2021",
+      "codeCPV": "79110000-8",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "64109",
+        "typeCode": "Code postal",
+        "nom": "BAYONNE CEDEX"
+      },
+      "dureeMois": 36,
+      "dateNotification": "2018-11-28+01:00",
+      "datePublicationDonnees": "2018-12-13+01:00",
+      "montant": 175200,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "TVA",
+          "id": "ESB85535615",
+          "denominationSociale": "TOMEFRA SLU"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20181807200",
+      "uid": "2167018050001420181807200",
+      "acheteur": {
+        "id": "21670180500014",
+        "nom": "HAGUENAU BP"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "PARC DES SPORTS TRAVAUX DE RESTRUCTURATION DES EQUIPEMENTS SPORTIF  MOE",
+      "codeCPV": "71241000-9",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "67180",
+        "typeCode": "Code commune",
+        "nom": "HAGUENAU"
+      },
+      "dureeMois": 3,
+      "dateNotification": "2018-11-22+01:00",
+      "datePublicationDonnees": "2018-09-26+02:00",
+      "montant": 28990,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "32054440600111",
+          "denominationSociale": "SODEREF"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018J1215A",
+      "uid": "216901231000112018J1215A",
+      "acheteur": {
+        "id": "21690123100011",
+        "nom": "Ville de Lyon"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "Conception du graphisme et suivi de fabrication des documents de communication du  Musée de l?imprimerie et de la communication graphique.",
+      "codeCPV": "79822500-7",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "69123",
+        "typeCode": "Code commune",
+        "nom": "A Lyon"
+      },
+      "dureeMois": 36,
+      "dateNotification": "2018-10-01+02:00",
+      "datePublicationDonnees": "2018-10-09+02:00",
+      "montant": 75000,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "52258043000026",
+          "denominationSociale": "BUREAU 205"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018J1228",
+      "uid": "216901231000112018J1228",
+      "acheteur": {
+        "id": "21690123100011",
+        "nom": "Ville de Lyon"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "Groupe scolaire Joannes Masset - Construction Menuiseries extérieures lot06b Menuiseries extérieures aluminium",
+      "codeCPV": "45421000-4",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "69123",
+        "typeCode": "Code commune",
+        "nom": "A Lyon"
+      },
+      "dureeMois": 20,
+      "dateNotification": "2018-10-03+02:00",
+      "datePublicationDonnees": "2018-11-13+01:00",
+      "montant": 189077.43,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "79984366900026",
+          "denominationSociale": "CMA CONCEPT"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018J1195A",
+      "uid": "216901231000112018J1195A",
+      "acheteur": {
+        "id": "21690123100011",
+        "nom": "Ville de Lyon"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "Fournitures d'armes de poing et accessoires pour la police municipale de la Ville de Lyon",
+      "codeCPV": "35300000-7",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "69123",
+        "typeCode": "Code commune",
+        "nom": "A Lyon"
+      },
+      "dureeMois": 48,
+      "dateNotification": "2018-10-05+02:00",
+      "datePublicationDonnees": "2018-11-14+01:00",
+      "montant": 140000,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "49763210900037",
+          "denominationSociale": "SUNROCK"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018J1230",
+      "uid": "216901231000112018J1230",
+      "acheteur": {
+        "id": "21690123100011",
+        "nom": "Ville de Lyon"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "Fourniture, installation et mise en oeuvre d'un pupitre de régie plateau de la grande salle de la Maison de la Danse",
+      "codeCPV": "31211100-9",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "69123",
+        "typeCode": "Code commune",
+        "nom": "A Lyon"
+      },
+      "dureeMois": 12,
+      "dateNotification": "2018-10-12+02:00",
+      "datePublicationDonnees": "2018-11-16+01:00",
+      "montant": 52041.02,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "31017425500045",
+          "denominationSociale": "SCENETEC SA SCOP"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018J1208A",
+      "uid": "216901231000112018J1208A",
+      "acheteur": {
+        "id": "21690123100011",
+        "nom": "Ville de Lyon"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "Fourniture de produits d'entretien pour les services de la Ville de Lyon-Marché réservé",
+      "codeCPV": "39812100-8",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "69123",
+        "typeCode": "Code commune",
+        "nom": "A Lyon"
+      },
+      "dureeMois": 24,
+      "dateNotification": "2018-10-17+02:00",
+      "datePublicationDonnees": "2018-11-21+01:00",
+      "montant": 100000,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "83034348900019",
+          "denominationSociale": "ENTREPRISE ADAPTÉE LA RUCHE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018J145200",
+      "uid": "216901231000112018J145200",
+      "acheteur": {
+        "id": "21690123100011",
+        "nom": "Ville de Lyon"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "Achat du spectacle ELVIRA au Théâtre des Célestins",
+      "codeCPV": "92320000-0",
+      "procedure": "Marché négocié sans publicité ni mise en concurrence préalable",
+      "lieuExecution": {
+        "code": "69123",
+        "typeCode": "Code commune",
+        "nom": "Lyon"
+      },
+      "dureeMois": 6,
+      "dateNotification": "2018-12-04+01:00",
+      "datePublicationDonnees": "2018-12-13+01:00",
+      "montant": 58460,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "TVA",
+          "id": "IT00802230151",
+          "denominationSociale": "Fondazione Piccolo Teatro Milano"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018J143900",
+      "uid": "216901231000112018J143900",
+      "acheteur": {
+        "id": "21690123100011",
+        "nom": "Ville de Lyon"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "Cession du spectacle Bestie di Scena",
+      "codeCPV": "92320000-0",
+      "procedure": "Marché négocié sans publicité ni mise en concurrence préalable",
+      "lieuExecution": {
+        "code": "69123",
+        "typeCode": "Code commune",
+        "nom": "Lyon"
+      },
+      "dureeMois": 6,
+      "dateNotification": "2018-11-21+01:00",
+      "datePublicationDonnees": "2018-12-17+01:00",
+      "montant": 34740,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "TVA",
+          "id": "IT00802230151",
+          "denominationSociale": "Fondazione Piccolo Teatro Milano"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018J1160A00",
+      "uid": "216901231000112018J1160A00",
+      "acheteur": {
+        "id": "21690123100011",
+        "nom": "Ville de Lyon"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "Mise en place du Flux PES marchés sur le logiciel LIA WEB",
+      "codeCPV": "48000000-8",
+      "procedure": "Marché négocié sans publicité ni mise en concurrence préalable",
+      "lieuExecution": {
+        "code": "69123",
+        "typeCode": "Code commune",
+        "nom": "A Lyon"
+      },
+      "dureeMois": 15,
+      "dateNotification": "2018-10-22+02:00",
+      "datePublicationDonnees": "2018-12-18+01:00",
+      "montant": 120000,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "75086744200030",
+          "denominationSociale": "ORDIGES FRANCE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018JCL3100",
+      "uid": "216901231000112018JCL3100",
+      "acheteur": {
+        "id": "21690123100011",
+        "nom": "Ville de Lyon"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "Coproduction du spectacle J'ai pris mon père sur mes épaules",
+      "codeCPV": "92500000-6",
+      "procedure": "Marché négocié sans publicité ni mise en concurrence préalable",
+      "lieuExecution": {
+        "code": "69123",
+        "typeCode": "Code commune",
+        "nom": "A Lyon"
+      },
+      "dureeMois": 6,
+      "dateNotification": "2018-10-05+02:00",
+      "datePublicationDonnees": "2018-12-19+01:00",
+      "montant": 30000,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "58450437700022",
+          "denominationSociale": "La Comédie de Saint-Etienne"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018J140200",
+      "uid": "216901231000112018J140200",
+      "acheteur": {
+        "id": "21690123100011",
+        "nom": "Ville de Lyon"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "Construction du décor de la création LA PLACE ROYALE au théâtre des Célestins",
+      "codeCPV": "79421200-3",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "69123",
+        "typeCode": "Code commune",
+        "nom": "A Lyon"
+      },
+      "dureeMois": 8,
+      "dateNotification": "2018-12-12+01:00",
+      "datePublicationDonnees": "2018-12-31+01:00",
+      "montant": 65200,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "48886199800018",
+          "denominationSociale": "ALBAKA"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20181811700",
+      "uid": "2176032240001520181811700",
+      "acheteur": {
+        "id": "21760322400015",
+        "nom": "GRAND-QUEVILLY (LE) (00100)"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "PISCINE-REFECTION ETANCHEITE ET ISOLATION DES TOITURES TERRASSES",
+      "codeCPV": "45261420-4",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "76322",
+        "typeCode": "Code commune",
+        "nom": "Grand Quevilly"
+      },
+      "dureeMois": 48,
+      "dateNotification": "2018-12-12+01:00",
+      "datePublicationDonnees": "2018-12-24+01:00",
+      "montant": 138949.55,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "39348880400047",
+          "denominationSociale": "CIME"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018MAS18101",
+      "uid": "218903870000102018MAS18101",
+      "acheteur": {
+        "id": "21890387000010",
+        "nom": "VILLE DE SENS"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "CREATION D'UNE VERRIERE ESPACE CULTUREL SAVINIEN A SENS",
+      "codeCPV": "45421140-7",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "69100",
+        "typeCode": "Code postal",
+        "nom": "SENS"
+      },
+      "dureeMois": 2,
+      "dateNotification": "2018-08-27+02:00",
+      "datePublicationDonnees": "2018-11-06+01:00",
+      "montant": 126122.56,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "48809251100010",
+          "denominationSociale": "EDA - ECLAIREMENT DESENFUMAGE AERATION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018MAS18181",
+      "uid": "218903870000102018MAS18181",
+      "acheteur": {
+        "id": "21890387000010",
+        "nom": "VILLE DE SENS"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "LIVRAISON LOCATION REPRISE CHALETS MARCHE NOEL 2018 VILLE DE SENS",
+      "codeCPV": "45233293-9",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "89108",
+        "typeCode": "Code postal",
+        "nom": "SENS"
+      },
+      "dureeMois": 1,
+      "dateNotification": "2018-11-07+01:00",
+      "datePublicationDonnees": "2018-11-12+01:00",
+      "montant": 42329.88,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "41243044900022",
+          "denominationSociale": "CPL"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018MF1800006",
+      "uid": "219740032000122018MF1800006",
+      "acheteur": {
+        "id": "21974003200012",
+        "nom": "Ville de OCII"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "FOURNITURE D'UNE PELLE HYDRAULIQUE POUR LES SERVICES TECHNIQUES",
+      "codeCPV": "44511120-2",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "97414",
+        "typeCode": "Code postal",
+        "nom": "ENTRE DEUX"
+      },
+      "dureeMois": 12,
+      "dateNotification": "2018-10-18+03:00",
+      "datePublicationDonnees": "2018-11-19+03:00",
+      "montant": 208000,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "32225993800064",
+          "denominationSociale": "SAS SCIME"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018202800",
+      "uid": "219740156000192018202800",
+      "acheteur": {
+        "id": "21974015600019",
+        "nom": "BUDG.PRINC. VILLE DE SAINT PAUL"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "ECOLE JASMIN ROBERT PLOMBERIE - ECOLE JASMIN ROBERT PLOMBERIE",
+      "codeCPV": "45210000-2",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "97460",
+        "typeCode": "Code postal",
+        "nom": "SAINT PAUL"
+      },
+      "dureeMois": 12,
+      "dateNotification": "2018-11-06+03:00",
+      "datePublicationDonnees": "2018-12-11+03:00",
+      "montant": 47770.14,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "80427848900013",
+          "denominationSociale": "DLA BATIMENT"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018214400",
+      "uid": "219740156000192018214400",
+      "acheteur": {
+        "id": "21974015600019",
+        "nom": "BUDG.PRINC. VILLE DE SAINT PAUL"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "VEHICULE NEUF LEGER 5 PORTES VP GASOIL - VEHICULE NEUF LEGER 5 PORTES VP GASOIL",
+      "codeCPV": "34100000-8",
+      "procedure": "Appel d'offres ouvert",
+      "lieuExecution": {
+        "code": "97460",
+        "typeCode": "Code postal",
+        "nom": "SAINT PAUL"
+      },
+      "dureeMois": 60,
+      "dateNotification": "2018-11-06+03:00",
+      "datePublicationDonnees": "2018-11-14+03:00",
+      "montant": 410799.5,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "47967345100023",
+          "denominationSociale": "AUTOMOBILES REUNION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018201700",
+      "uid": "219740156000192018201700",
+      "acheteur": {
+        "id": "21974015600019",
+        "nom": "BUDG.PRINC. VILLE DE SAINT PAUL"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "E JASMIN ROBERT REVETEMENT DUR SOLS SOUPLES  - E JASMIN ROBERT REVETEMENT DUR SOLS SOUPLES",
+      "codeCPV": "45210000-2",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "97460",
+        "typeCode": "Code postal",
+        "nom": "SAINT PAUL"
+      },
+      "dureeMois": 12,
+      "dateNotification": "2018-11-06+03:00",
+      "datePublicationDonnees": "2018-12-27+03:00",
+      "montant": 40071.6,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "52830623600019",
+          "denominationSociale": "SRAB"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "20182041000",
+      "uid": "2197401560001920182041000",
+      "acheteur": {
+        "id": "21974015600019",
+        "nom": "BUDG.PRINC. VILLE DE SAINT PAUL"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "ECOLE JASMIN ROBERT SS SOUCI ASCENSEUR - ECOLE JASMIN ROBERT SS SOUCI ASCENSEUR",
+      "codeCPV": "45200000-9",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "97460",
+        "typeCode": "Code postal",
+        "nom": "SAINT PAUL"
+      },
+      "dureeMois": 12,
+      "dateNotification": "2018-11-07+03:00",
+      "datePublicationDonnees": "2018-12-28+03:00",
+      "montant": 29500,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "31086264400039",
+          "denominationSociale": "CEGELEC"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "201890230",
+      "uid": "23350001600040201890230",
+      "acheteur": {
+        "id": "23350001600040",
+        "nom": "Région de Bretagne"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "Maintenance et exploitation des installations de chauffage, de climatisation, de ventilation et de p",
+      "codeCPV": "50720000-8",
+      "procedure": "Appel d'offres ouvert",
+      "lieuExecution": {
+        "code": "35000",
+        "typeCode": "Code postal",
+        "nom": "35000"
+      },
+      "dureeMois": 72,
+      "dateNotification": "2018-07-10+02:00",
+      "datePublicationDonnees": "2018-10-04+02:00",
+      "montant": 59153.83,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "31587164001603",
+          "denominationSociale": "IDEX ENERGIES"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018TEST00",
+      "uid": "244900809001162018TEST00",
+      "acheteur": {
+        "id": "24490080900116",
+        "nom": "ANJOU BLEU COMMUNAUTE"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "TEST",
+      "codeCPV": "71000000-8",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "49500",
+        "typeCode": "Code postal",
+        "nom": "SEGRE EN ANJOU BLEU"
+      },
+      "dureeMois": 25,
+      "dateNotification": "2018-01-17+01:00",
+      "datePublicationDonnees": "2018-09-16+02:00",
+      "montant": 115642,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "34508145900330",
+          "denominationSociale": "SCE AMENAGEMENT"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018005400",
+      "uid": "269740395000182018005400",
+      "acheteur": {
+        "id": "26974039500018",
+        "nom": "CDE BUDGET PRINCIPAL"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "CONSOMMABLES POUR IMPRIMANTES ET CARTOUCHES FAX - CONSOMMABLES POUR IMPRIMANTES ET CARTOUCHES FAX",
+      "codeCPV": "30192113-6",
+      "procedure": "Appel d'offres ouvert",
+      "lieuExecution": {
+        "code": "97460",
+        "typeCode": "Code postal",
+        "nom": "SAINT PAUL"
+      },
+      "dureeMois": 48,
+      "dateNotification": "2018-10-22+03:00",
+      "datePublicationDonnees": "2018-10-25+03:00",
+      "montant": 60000,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "51175532400031",
+          "denominationSociale": "ENCRE DISTRIBUTION"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "201818M11100",
+      "uid": "28310001400028201818M11100",
+      "acheteur": {
+        "id": "28310001400028",
+        "nom": "Budget Principal"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "CONSTRUCTION CIS VILLEFRANCHE LOT 15 RELANCE CLOTURES PORTAILS",
+      "codeCPV": "45340000-2",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "31582",
+        "typeCode": "Code commune",
+        "nom": "VILLEFRANCHE DE LAURAGAIS"
+      },
+      "dureeMois": 7,
+      "dateNotification": "2018-12-03+01:00",
+      "datePublicationDonnees": "2018-12-11+01:00",
+      "montant": 47967.5,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "79008488300061",
+          "denominationSociale": "DIRICKX ESPACE CLOTURE SUD OUEST"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "201818M10900",
+      "uid": "28310001400028201818M10900",
+      "acheteur": {
+        "id": "28310001400028",
+        "nom": "Budget Principal"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "CONSTRUCTION CIS VILLEFRANCHE L7 RELANCE DOUBLAGE CLOISONS FAUX PLAFONDS",
+      "codeCPV": "45410000-4",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "31582",
+        "typeCode": "Code commune",
+        "nom": "VILLEFRANCHE DE LAURAGAIS"
+      },
+      "dureeMois": 7,
+      "dateNotification": "2018-12-03+01:00",
+      "datePublicationDonnees": "2018-12-11+01:00",
+      "montant": 47224,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "35345717900045",
+          "denominationSociale": "PAGES ET FILS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "201918A06900",
+      "uid": "28310001400028201918A06900",
+      "acheteur": {
+        "id": "28310001400028",
+        "nom": "Budget Principal"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "FOURNITURE INSTALLATION MISE EN SERVICE DE CABLAGE VDI ET D EQUIPEMENT DU SYSTEME D INFORMATION",
+      "codeCPV": "32521000-1",
+      "procedure": "Appel d'offres ouvert",
+      "lieuExecution": {
+        "code": "31149",
+        "typeCode": "Code commune",
+        "nom": "COLOMIERS"
+      },
+      "dureeMois": 48,
+      "dateNotification": "2018-12-18+01:00",
+      "datePublicationDonnees": "2018-12-24+01:00",
+      "montant": 320000,
+      "formePrix": "Révisable",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "40836889200043",
+          "denominationSociale": "H2P COMMUNICATIONS"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018160",
+      "uid": "285900015000552018160",
+      "acheteur": {
+        "id": "28590001500055",
+        "nom": "SDIS DU NORD - BUDGET PRINCIPA"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "ACQUISITION D UNE ECHELLE PIVOTANTE A MOUVEMENTS COMBINES DE CLASSE 30",
+      "codeCPV": "34144200-0",
+      "procedure": "Appel d'offres ouvert",
+      "lieuExecution": {
+        "code": "59",
+        "typeCode": "Code département",
+        "nom": "DEPARTEMENT DU NORD"
+      },
+      "dureeMois": 24,
+      "dateNotification": "2018-10-08+02:00",
+      "datePublicationDonnees": "2018-10-12+02:00",
+      "montant": 510900,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "77565371000050",
+          "denominationSociale": "MAGIRUS CAMIVA"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018259",
+      "uid": "285900015000552018259",
+      "acheteur": {
+        "id": "28590001500055",
+        "nom": "SDIS DU NORD - BUDGET PRINCIPA"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "ACCORD CADRE A BONS DE COMMANDE POUR DES MISSIONS DE CONDUITE D OPERATION",
+      "codeCPV": "71541000-2",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59",
+        "typeCode": "Code département",
+        "nom": "DEPARTEMENT DU NORD"
+      },
+      "dureeMois": 36,
+      "dateNotification": "2018-10-11+02:00",
+      "datePublicationDonnees": "2018-10-26+02:00",
+      "montant": 205000,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "43325083400846",
+          "denominationSociale": "DEKRA INDUSTRIAL"
+        },
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "42154744900023",
+          "denominationSociale": "VERDI CONSEIL NDF"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018170",
+      "uid": "285900015000552018170",
+      "acheteur": {
+        "id": "28590001500055",
+        "nom": "SDIS DU NORD - BUDGET PRINCIPA"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "ACQUISITION ET MAINTENANCE DE TENUES DE PLONGEE, DE MATERIELS DE PLONGEE SUBAQUATIQUES ET AQUATIQUES ET REQUALIFICATION DE BOUTEILLES DE PLONGEE; LOT 1 TENUES DE PLONGEE ACQUISITION MAINTENANCE ET FOURNITURES ASSOCIEES",
+      "codeCPV": "37412240-3",
+      "procedure": "Appel d'offres ouvert",
+      "lieuExecution": {
+        "code": "59",
+        "typeCode": "Code département",
+        "nom": "DEPARTEMENT DU NORD"
+      },
+      "dureeMois": 48,
+      "dateNotification": "2018-10-29+01:00",
+      "datePublicationDonnees": "2018-11-08+01:00",
+      "montant": 360000,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "35330449600063",
+          "denominationSociale": "SARL AQUAMANIA TOPSTAR"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "2018179",
+      "uid": "285900015000552018179",
+      "acheteur": {
+        "id": "28590001500055",
+        "nom": "SDIS DU NORD - BUDGET PRINCIPA"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "FOURNITURE DE CARBURANTS EN STATION ET PRESTATIONS ANNEXES A L AIDE DE CARTES ACCREDITIVES",
+      "codeCPV": "30163100-0",
+      "procedure": "Appel d'offres ouvert",
+      "lieuExecution": {
+        "code": "59",
+        "typeCode": "Code département",
+        "nom": "DEPARTEMENT DU NORD"
+      },
+      "dureeMois": 48,
+      "dateNotification": "2018-11-09+01:00",
+      "datePublicationDonnees": "2018-11-12+01:00",
+      "montant": 2000000,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "53168044500024",
+          "denominationSociale": "TOTAL MARKETING FRANCE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "201822600",
+      "uid": "28590001500055201822600",
+      "acheteur": {
+        "id": "28590001500055",
+        "nom": "SDIS DU NORD - BUDGET PRINCIPA"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "FOURNITURE DE TESTS DE DEPISTAGE DE SUBSTANCES TOXIQUES DANS LES LIQUIDES BIOLOGIQUES.",
+      "codeCPV": "33696500-0",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59",
+        "typeCode": "Code département",
+        "nom": "DEPARTEMENT DU NORD"
+      },
+      "dureeMois": 48,
+      "dateNotification": "2018-12-12+01:00",
+      "datePublicationDonnees": "2018-12-13+01:00",
+      "montant": 48000,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "38185159100093",
+          "denominationSociale": "DIASYS DISTRIBUTION FRANCE"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "201824300",
+      "uid": "28590001500055201824300",
+      "acheteur": {
+        "id": "28590001500055",
+        "nom": "SDIS DU NORD - BUDGET PRINCIPA"
+      },
+      "_type": "Marché",
+      "nature": "Accord-cadre",
+      "objet": "ACQUISITION MISE EN OEUVRE ET MAINTENANCE D UN OUTIL DE GESTION DU TEMPS DE TRAVAIL",
+      "codeCPV": "48450000-7",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59",
+        "typeCode": "Code département",
+        "nom": "DEPARTEMENT DU NORD"
+      },
+      "dureeMois": 48,
+      "dateNotification": "2018-12-19+01:00",
+      "datePublicationDonnees": "2018-12-21+01:00",
+      "montant": 208000,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "48263776600023",
+          "denominationSociale": "PRETEXX"
+        }
+      ],
+      "modifications": []
+    },
+    {
+      "id": "201830400",
+      "uid": "28590001500055201830400",
+      "acheteur": {
+        "id": "28590001500055",
+        "nom": "SDIS DU NORD - BUDGET PRINCIPA"
+      },
+      "_type": "Marché",
+      "nature": "Marché",
+      "objet": "CONSTRUCTION D UN CENTRE D INCENDIE ET DE SECOURS A CAMBRAI LOT 01 - VRD",
+      "codeCPV": "45216121-8",
+      "procedure": "Procédure adaptée",
+      "lieuExecution": {
+        "code": "59",
+        "typeCode": "Code département",
+        "nom": "DEPARTEMENT DU NORD"
+      },
+      "dureeMois": 29,
+      "dateNotification": "2018-12-14+01:00",
+      "datePublicationDonnees": "2018-12-24+01:00",
+      "montant": 662675.54,
+      "formePrix": "Ferme",
+      "titulaires": [
+        {
+          "typeIdentifiant": "SIRET",
+          "id": "40209626700016",
+          "denominationSociale": "EIFFAGE ROUTE NORD EST"
+        }
+      ],
+      "modifications": []
+    }
+  ]
+}
